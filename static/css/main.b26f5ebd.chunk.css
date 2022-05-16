@@ -1,0 +1,2 @@
+.pagination{flex-direction:column;align-items:center;grid-gap:10px;gap:10px}.pagination,.pagination-list{display:flex;justify-content:center}.pagination-list{list-style:none;padding:0;margin:0}.pagination-link{display:inline-block;text-decoration:none;border:1px solid #e9e1e1;padding:5px 10px;color:#000}.pagination-link:hover{background-color:#eaf0f0}.active{color:#f20c0c;border-color:#000}.disabled{pointer-events:none;color:#abaaaa}
+/*# sourceMappingURL=main.b26f5ebd.chunk.css.map */
